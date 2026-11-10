@@ -1,0 +1,37 @@
+body {
+    height: 100vh;
+}
+
+.table-image {
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+
+.table-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    object-fit: contain;
+}
+
+.class-image {
+    display: none;
+}
+
+.price-blu {
+    color: blue
+}
+
+.price-green {
+    color: green;
+}
+
+.price-yellow {
+    color: yellow;
+}
+
+.price-magenta {
+    color: magenta;
+}
